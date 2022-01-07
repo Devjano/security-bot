@@ -1,0 +1,41 @@
+{
+  "version": "4.0.0",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "dependencies": {
+    "discord.js": "^12.5.3",
+    "ascii-table": "0.0.9",
+    "moment-timezone": "^0.5.33",
+    "math-expression-evaluator": "^1.3.8",
+    "discord-buttons": "^4.0.0",
+    "discord-anti-spam": "^2.5.1",
+    "express": "^4.17.1",
+    "systeminformation": "^5.9.0",
+    "moment-duration-format": "^2.3.2",
+    "finalhandler": "^1.1.2",
+    "fs": "^0.0.2",
+    "superagent": "^6.1.0",
+    "jimp": "^0.16.1",
+    "moment": "^2.29.1",
+    "dayjs": "^1.10.5",
+    "ms": "^2.1.3",
+    "os": "^0.1.1",
+    "discord-reply": "^0.1.0",
+    "node-opus": "^0.3.3",
+    "opusscript": "^0.0.8",
+    "request": "^2.88.2",
+    "great": "^0.0.4",
+    "snekfetch": "^4.0.4",
+    "node-cmd": "^5.0.0",
+    "util": "^0.12.4",
+    "common-tags": "^1.8.0",
+    "locale-parser": "^1.1.1",
+    "mongoose": "^5.13.4",
+    "node-fetch": "^2.6.1"
+  },
+  "engines": {
+    "node": "12.x"
+  }
+}
